@@ -139,3 +139,5 @@ helm/**/.values.yaml
 /.tabnine/
 /.codeium
 *.local.md
+client/index.html
+client/vite.config.ts
