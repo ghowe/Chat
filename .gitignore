@@ -139,5 +139,6 @@ helm/**/.values.yaml
 /.tabnine/
 /.codeium
 *.local.md
+# Ingenious Ideas Client
 client/index.html
 client/vite.config.ts
